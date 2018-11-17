@@ -5,5 +5,7 @@
     <string name="bImg">Imagen Propia</string>
     <string name="bClose">Salir</string>
 
-    <string name="ttlBackA">action_back</string>
+    <string name="tBarTitle">Colección</string>
+
+    <string name="contDescBackB">Arrow representing back button</string>
 </resources>

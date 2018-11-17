@@ -20,18 +20,20 @@
 
         <ImageButton
             android:id="@+id/back_action"
+            android:contentDescription="@string/contDescBackB"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@android:color/transparent"
-            android:layout_gravity="left"
+            android:layout_gravity="start"
             android:clickable="true"
+            android:focusable="true"
             android:src="@drawable/ic_arrow_back_white_24dp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif"
-            android:text="Coleccion"
+            android:text="@string/tBarTitle"
             android:layout_gravity="center"
             android:textColor="#FFF"
             android:textSize="30sp" />
