@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ARGalery</string>
+
+    <string name="bCol">Ver Coleccion</string>
+    <string name="bImg">Imagen Propia</string>
+    <string name="bClose">Salir</string>
+
+    <string name="ttlBackA">action_back</string>
+</resources>
