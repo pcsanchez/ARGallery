@@ -7,5 +7,16 @@
 
     <string name="tBarTitle">Colección</string>
 
+    <string name="textLabelOprime">Oprime un producto:</string>
+    <string name="textLabelCategorias">Categorias</string>
+
     <string name="contDescBackB">Arrow representing back button</string>
+
+    <string name="bVizualizar">Vizualizar</string>
+
+    <string name ="tvProveedor">Proveedor:</string>
+    <string name ="tvPrecio">Precio:</string>
+    <string name ="tvDimensiones">Dimensiones:</string>
+    <string name ="tvMaterial">Material:</string>
+    <string name ="tvDescripcion">Descripción:</string>
 </resources>
